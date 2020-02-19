@@ -5,8 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Foursquare App</title>
-	<link rel="stylesheet" href="<?php echo base_url("assets/third_party/css/bootstrap.css") ?>">  
-	<link rel="stylesheet" href="<?php echo base_url("assets/frontend/css/main_page.css") ?>">
+	<link rel="stylesheet" href="<?php echo base_url("assets/third_party/css/bootstrap.css") ?>">   
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
